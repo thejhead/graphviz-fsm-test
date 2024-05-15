@@ -1,3 +1,5 @@
+![Alt text](https://g.gravizo.com/source/custom_mark10?https://raw.githubusercontent.com/thejhead/graphviz-fsm-test/main/README.md?token=GHSAT0AAAAAACR5XLQ7ILHPOJTJENV4DIVMZSFBTUA)
+
 <details> 
 <summary></summary>
 custom_mark10
