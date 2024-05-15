@@ -1,5 +1,5 @@
 <img src='https://g.gravizo.com/svg?
-digraph {
+  digraph {
     rankdir=LR;
     pad=".25"
     nodesep="1"
@@ -53,5 +53,4 @@ digraph {
     CONNECT_TRANSITIONS:t1 -> CONNECT_END
     CONNECT -> CONNECT_TRANSITIONS:t2 [arrowhead=none]
     CONNECT_TRANSITIONS:t2 -> CONNECT_END
-}
-'>
+}'/>
