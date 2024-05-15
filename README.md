@@ -1,4 +1,4 @@
-![Alt text](https://g.gravizo.com/source/custom_mark10?https://raw.githubusercontent.com/thejhead/graphviz-fsm-test/main/README.md)
+![Alt text](https://g.gravizo.com/source/svg/custom_mark10?https://raw.githubusercontent.com/thejhead/graphviz-fsm-test/main/README.md)
 <details> 
 <summary></summary>
 custom_mark10
