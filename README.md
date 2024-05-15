@@ -2,7 +2,7 @@
 <details> 
 <summary></summary>
 custom_mark10
-    digraph {
+    digraph BGP_FSM_CONNECT {
         rankdir=LR;
         pad=".25"
         nodesep="1"
